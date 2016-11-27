@@ -1,5 +1,10 @@
-// Skrypt podaj/wyswietl imie
+// Skrypt pole trojkata
 
-var name = prompt('Wpisz swoje imię');
-alert('Witaj, ' + name);
-console.log('Witaj, ' + name);
+
+var a = prompt('Podaj dlugosc trojkata');
+var h = prompt('Podaj wysokosc trojkata');
+console.log (a,h);
+alert (a,h);
+var triangleArea = a*h/2;
+console.log (triangleArea);
+alert(triangleArea);
