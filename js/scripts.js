@@ -2,7 +2,7 @@ var text = 'Papugi koszą trawę, unosząc się nad ziemią 15 centymetrów, na 
 console.log(text.length/2);
 	
 var animal = 'Zielone Słonie';
-var animal = animal.toUpperCase();
+	animal = animal.toUpperCase(); //var robisz wyłącznie przy deklaracji zmiennej
 
 var propertext = text.replace('Papugi',animal);
 console.log(propertext);
