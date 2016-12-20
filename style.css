@@ -1,0 +1,12 @@
+.ramka {
+width:400px;
+height:300px;
+margin: 0 auto;
+overflow: hidden;}
+
+ul {width: 2000px;
+padding: 0px;
+margin:0px;}
+li { margin: 0;
+  list-style: none;
+float: left;}
