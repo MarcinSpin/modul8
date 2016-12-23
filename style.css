@@ -3,7 +3,11 @@ width:400px;
 height:300px;
 margin: 0 auto;
 overflow: hidden;}
-
+#carousel{
+width: 400px;
+height: 300px;
+overflow: hidden;
+}
 ul {width: 2000px;
 padding: 0px;
 margin:0px;}
